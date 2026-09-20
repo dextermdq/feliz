@@ -27,9 +27,9 @@ export function Header({ cartCount = 0 }: HeaderProps) {
             <Image
               src="/logo.jpg"
               alt="FELIZ mayorista"
-              width={32}
-              height={32}
-              className="w-8 h-8 rounded-full object-cover"
+              width={48}
+              height={48}
+              className="w-12 h-12 rounded-full object-cover"
             />
             <div className="flex flex-col leading-none hidden sm:block">
               <span className="font-archivo font-bold text-headline-md text-feliz-blanco">SUPER MAYORISTA</span>
