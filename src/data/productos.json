@@ -1,0 +1,4040 @@
+﻿[
+    {
+        "id":  "prod-0",
+        "slug":  "producto-0",
+        "nombre":  "MOLINOS ALA â€” Producto 0",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-0.svg"
+                     ],
+        "sku":  "SKU-00000",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  500,
+        "precioMinorista":  575,
+        "precioAnterior":  650,
+        "enOferta":  true,
+        "destacado":  true,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO",
+                          "MÃS VENDIDO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-1",
+        "slug":  "producto-1",
+        "nombre":  "MAROLIO â€” Producto 1",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-1.svg"
+                     ],
+        "sku":  "SKU-00001",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  547,
+        "precioMinorista":  629,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-2",
+        "slug":  "producto-2",
+        "nombre":  "LA SERENÃSIMA â€” Producto 2",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-2.svg"
+                     ],
+        "sku":  "SKU-00002",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  594,
+        "precioMinorista":  683,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-3",
+        "slug":  "producto-3",
+        "nombre":  "ARCOR â€” Producto 3",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-3.svg"
+                     ],
+        "sku":  "SKU-00003",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  641,
+        "precioMinorista":  737,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-4",
+        "slug":  "producto-4",
+        "nombre":  "QUILMES â€” Producto 4",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-4.svg"
+                     ],
+        "sku":  "SKU-00004",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  688,
+        "precioMinorista":  791,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-5",
+        "slug":  "producto-5",
+        "nombre":  "COCA COLA â€” Producto 5",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-5.svg"
+                     ],
+        "sku":  "SKU-00005",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  735,
+        "precioMinorista":  845,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-6",
+        "slug":  "producto-6",
+        "nombre":  "PEPSI â€” Producto 6",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-6.svg"
+                     ],
+        "sku":  "SKU-00006",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  782,
+        "precioMinorista":  899,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-7",
+        "slug":  "producto-7",
+        "nombre":  "FANTA â€” Producto 7",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-7.svg"
+                     ],
+        "sku":  "SKU-00007",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  829,
+        "precioMinorista":  953,
+        "precioAnterior":  1077,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-8",
+        "slug":  "producto-8",
+        "nombre":  "SPRITE â€” Producto 8",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-8.svg"
+                     ],
+        "sku":  "SKU-00008",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  876,
+        "precioMinorista":  1007,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-9",
+        "slug":  "producto-9",
+        "nombre":  "NARANJA PULP â€” Producto 9",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-9.svg"
+                     ],
+        "sku":  "SKU-00009",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  923,
+        "precioMinorista":  1061,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-10",
+        "slug":  "producto-10",
+        "nombre":  "NATURA â€” Producto 10",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-10.svg"
+                     ],
+        "sku":  "SKU-00010",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  970,
+        "precioMinorista":  1115,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-11",
+        "slug":  "producto-11",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 11",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-11.svg"
+                     ],
+        "sku":  "SKU-00011",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  1017,
+        "precioMinorista":  1169,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-12",
+        "slug":  "producto-12",
+        "nombre":  "PROFERT â€” Producto 12",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-12.svg"
+                     ],
+        "sku":  "SKU-00012",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  1064,
+        "precioMinorista":  1223,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-13",
+        "slug":  "producto-13",
+        "nombre":  "BAGLEY â€” Producto 13",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-13.svg"
+                     ],
+        "sku":  "SKU-00013",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  1111,
+        "precioMinorista":  1277,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-14",
+        "slug":  "producto-14",
+        "nombre":  "LUCCHETTI â€” Producto 14",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-14.svg"
+                     ],
+        "sku":  "SKU-00014",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  1158,
+        "precioMinorista":  1331,
+        "precioAnterior":  1505,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-15",
+        "slug":  "producto-15",
+        "nombre":  "CANALE â€” Producto 15",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-15.svg"
+                     ],
+        "sku":  "SKU-00015",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  1205,
+        "precioMinorista":  1385,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-16",
+        "slug":  "producto-16",
+        "nombre":  "TARAGÃœI â€” Producto 16",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-16.svg"
+                     ],
+        "sku":  "SKU-00016",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  1252,
+        "precioMinorista":  1439,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-17",
+        "slug":  "producto-17",
+        "nombre":  "PLAYADITO â€” Producto 17",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-17.svg"
+                     ],
+        "sku":  "SKU-00017",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  1299,
+        "precioMinorista":  1493,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-18",
+        "slug":  "producto-18",
+        "nombre":  "MAGISTRAL â€” Producto 18",
+        "marca":  "Magistral",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-18.svg"
+                     ],
+        "sku":  "SKU-00018",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  1346,
+        "precioMinorista":  1547,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-19",
+        "slug":  "producto-19",
+        "nombre":  "AYUDÃN â€” Producto 19",
+        "marca":  "AyudÃ­n",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-19.svg"
+                     ],
+        "sku":  "SKU-00019",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  1393,
+        "precioMinorista":  1601,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-20",
+        "slug":  "producto-20",
+        "nombre":  "FULGENCIO â€” Producto 20",
+        "marca":  "Fulgencio",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-20.svg"
+                     ],
+        "sku":  "SKU-00020",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  1440,
+        "precioMinorista":  1655,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-21",
+        "slug":  "producto-21",
+        "nombre":  "BLEM â€” Producto 21",
+        "marca":  "Blem",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-21.svg"
+                     ],
+        "sku":  "SKU-00021",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  1487,
+        "precioMinorista":  1710,
+        "precioAnterior":  1933,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-22",
+        "slug":  "producto-22",
+        "nombre":  "DOVE â€” Producto 22",
+        "marca":  "Dove",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-22.svg"
+                     ],
+        "sku":  "SKU-00022",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  1534,
+        "precioMinorista":  1764,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-23",
+        "slug":  "producto-23",
+        "nombre":  "HEAD \u0026 SHOULDERS â€” Producto 23",
+        "marca":  "Head \u0026 Shoulders",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-23.svg"
+                     ],
+        "sku":  "SKU-00023",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  1581,
+        "precioMinorista":  1818,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-24",
+        "slug":  "producto-24",
+        "nombre":  "PANTENE â€” Producto 24",
+        "marca":  "Pantene",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-24.svg"
+                     ],
+        "sku":  "SKU-00024",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  1628,
+        "precioMinorista":  1872,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-25",
+        "slug":  "producto-25",
+        "nombre":  "SEDAL â€” Producto 25",
+        "marca":  "Sedal",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-25.svg"
+                     ],
+        "sku":  "SKU-00025",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  1675,
+        "precioMinorista":  1926,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-26",
+        "slug":  "producto-26",
+        "nombre":  "MOLINOS ALA â€” Producto 26",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-26.svg"
+                     ],
+        "sku":  "SKU-00026",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  1722,
+        "precioMinorista":  1980,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-27",
+        "slug":  "producto-27",
+        "nombre":  "MAROLIO â€” Producto 27",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-27.svg"
+                     ],
+        "sku":  "SKU-00027",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  1769,
+        "precioMinorista":  2034,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-28",
+        "slug":  "producto-28",
+        "nombre":  "LA SERENÃSIMA â€” Producto 28",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-28.svg"
+                     ],
+        "sku":  "SKU-00028",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  1816,
+        "precioMinorista":  2088,
+        "precioAnterior":  2360,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-29",
+        "slug":  "producto-29",
+        "nombre":  "ARCOR â€” Producto 29",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-29.svg"
+                     ],
+        "sku":  "SKU-00029",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  1863,
+        "precioMinorista":  2142,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-30",
+        "slug":  "producto-30",
+        "nombre":  "QUILMES â€” Producto 30",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-30.svg"
+                     ],
+        "sku":  "SKU-00030",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  1910,
+        "precioMinorista":  2196,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-31",
+        "slug":  "producto-31",
+        "nombre":  "COCA COLA â€” Producto 31",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-31.svg"
+                     ],
+        "sku":  "SKU-00031",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  1957,
+        "precioMinorista":  2250,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-32",
+        "slug":  "producto-32",
+        "nombre":  "PEPSI â€” Producto 32",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-32.svg"
+                     ],
+        "sku":  "SKU-00032",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  2004,
+        "precioMinorista":  2304,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-33",
+        "slug":  "producto-33",
+        "nombre":  "FANTA â€” Producto 33",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-33.svg"
+                     ],
+        "sku":  "SKU-00033",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  2051,
+        "precioMinorista":  2358,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-34",
+        "slug":  "producto-34",
+        "nombre":  "SPRITE â€” Producto 34",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-34.svg"
+                     ],
+        "sku":  "SKU-00034",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  2098,
+        "precioMinorista":  2412,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-35",
+        "slug":  "producto-35",
+        "nombre":  "NARANJA PULP â€” Producto 35",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-35.svg"
+                     ],
+        "sku":  "SKU-00035",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  2145,
+        "precioMinorista":  2466,
+        "precioAnterior":  2788,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-36",
+        "slug":  "producto-36",
+        "nombre":  "NATURA â€” Producto 36",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-36.svg"
+                     ],
+        "sku":  "SKU-00036",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  2192,
+        "precioMinorista":  2520,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-37",
+        "slug":  "producto-37",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 37",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-37.svg"
+                     ],
+        "sku":  "SKU-00037",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  2239,
+        "precioMinorista":  2574,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-38",
+        "slug":  "producto-38",
+        "nombre":  "PROFERT â€” Producto 38",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-38.svg"
+                     ],
+        "sku":  "SKU-00038",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  2286,
+        "precioMinorista":  2628,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-39",
+        "slug":  "producto-39",
+        "nombre":  "BAGLEY â€” Producto 39",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-39.svg"
+                     ],
+        "sku":  "SKU-00039",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  2333,
+        "precioMinorista":  2682,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-40",
+        "slug":  "producto-40",
+        "nombre":  "LUCCHETTI â€” Producto 40",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-40.svg"
+                     ],
+        "sku":  "SKU-00040",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  2380,
+        "precioMinorista":  2737,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-41",
+        "slug":  "producto-41",
+        "nombre":  "CANALE â€” Producto 41",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "arroz",
+        "imagenes":  [
+                         "/images/productos/producto-41.svg"
+                     ],
+        "sku":  "SKU-00041",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  2427,
+        "precioMinorista":  2791,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-42",
+        "slug":  "producto-42",
+        "nombre":  "TARAGÃœI â€” Producto 42",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "fideos",
+        "imagenes":  [
+                         "/images/productos/producto-42.svg"
+                     ],
+        "sku":  "SKU-00042",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  2474,
+        "precioMinorista":  2845,
+        "precioAnterior":  3216,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-43",
+        "slug":  "producto-43",
+        "nombre":  "PLAYADITO â€” Producto 43",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "conservas",
+        "imagenes":  [
+                         "/images/productos/producto-43.svg"
+                     ],
+        "sku":  "SKU-00043",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  2521,
+        "precioMinorista":  2899,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-44",
+        "slug":  "producto-44",
+        "nombre":  "MAGISTRAL â€” Producto 44",
+        "marca":  "Magistral",
+        "descripcion":  "Producto de calidad mayorista para almacÃ©n",
+        "categoriaId":  "almacen",
+        "subcategoriaId":  "aceites",
+        "imagenes":  [
+                         "/images/productos/producto-44.svg"
+                     ],
+        "sku":  "SKU-00044",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  2568,
+        "precioMinorista":  2953,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-45",
+        "slug":  "producto-45",
+        "nombre":  "AYUDÃN â€” Producto 45",
+        "marca":  "AyudÃ­n",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-45.svg"
+                     ],
+        "sku":  "SKU-00045",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  2615,
+        "precioMinorista":  3007,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-46",
+        "slug":  "producto-46",
+        "nombre":  "FULGENCIO â€” Producto 46",
+        "marca":  "Fulgencio",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-46.svg"
+                     ],
+        "sku":  "SKU-00046",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  2662,
+        "precioMinorista":  3061,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-47",
+        "slug":  "producto-47",
+        "nombre":  "BLEM â€” Producto 47",
+        "marca":  "Blem",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-47.svg"
+                     ],
+        "sku":  "SKU-00047",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  2709,
+        "precioMinorista":  3115,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-48",
+        "slug":  "producto-48",
+        "nombre":  "DOVE â€” Producto 48",
+        "marca":  "Dove",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-48.svg"
+                     ],
+        "sku":  "SKU-00048",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  2756,
+        "precioMinorista":  3169,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-49",
+        "slug":  "producto-49",
+        "nombre":  "HEAD \u0026 SHOULDERS â€” Producto 49",
+        "marca":  "Head \u0026 Shoulders",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-49.svg"
+                     ],
+        "sku":  "SKU-00049",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  2803,
+        "precioMinorista":  3223,
+        "precioAnterior":  3643,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-50",
+        "slug":  "producto-50",
+        "nombre":  "PANTENE â€” Producto 50",
+        "marca":  "Pantene",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-50.svg"
+                     ],
+        "sku":  "SKU-00050",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  2850,
+        "precioMinorista":  3277,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-51",
+        "slug":  "producto-51",
+        "nombre":  "SEDAL â€” Producto 51",
+        "marca":  "Sedal",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-51.svg"
+                     ],
+        "sku":  "SKU-00051",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  2897,
+        "precioMinorista":  3331,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-52",
+        "slug":  "producto-52",
+        "nombre":  "MOLINOS ALA â€” Producto 52",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-52.svg"
+                     ],
+        "sku":  "SKU-00052",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  2944,
+        "precioMinorista":  3385,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-53",
+        "slug":  "producto-53",
+        "nombre":  "MAROLIO â€” Producto 53",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-53.svg"
+                     ],
+        "sku":  "SKU-00053",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  2991,
+        "precioMinorista":  3439,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-54",
+        "slug":  "producto-54",
+        "nombre":  "LA SERENÃSIMA â€” Producto 54",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-54.svg"
+                     ],
+        "sku":  "SKU-00054",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  3038,
+        "precioMinorista":  3493,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-55",
+        "slug":  "producto-55",
+        "nombre":  "ARCOR â€” Producto 55",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-55.svg"
+                     ],
+        "sku":  "SKU-00055",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  3085,
+        "precioMinorista":  3547,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO",
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-56",
+        "slug":  "producto-56",
+        "nombre":  "QUILMES â€” Producto 56",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-56.svg"
+                     ],
+        "sku":  "SKU-00056",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  3132,
+        "precioMinorista":  3601,
+        "precioAnterior":  4071,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-57",
+        "slug":  "producto-57",
+        "nombre":  "COCA COLA â€” Producto 57",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-57.svg"
+                     ],
+        "sku":  "SKU-00057",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  3179,
+        "precioMinorista":  3655,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-58",
+        "slug":  "producto-58",
+        "nombre":  "PEPSI â€” Producto 58",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-58.svg"
+                     ],
+        "sku":  "SKU-00058",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  3226,
+        "precioMinorista":  3709,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-59",
+        "slug":  "producto-59",
+        "nombre":  "FANTA â€” Producto 59",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-59.svg"
+                     ],
+        "sku":  "SKU-00059",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  3273,
+        "precioMinorista":  3763,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-60",
+        "slug":  "producto-60",
+        "nombre":  "SPRITE â€” Producto 60",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-60.svg"
+                     ],
+        "sku":  "SKU-00060",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  3320,
+        "precioMinorista":  3817,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-61",
+        "slug":  "producto-61",
+        "nombre":  "NARANJA PULP â€” Producto 61",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-61.svg"
+                     ],
+        "sku":  "SKU-00061",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  3367,
+        "precioMinorista":  3872,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-62",
+        "slug":  "producto-62",
+        "nombre":  "NATURA â€” Producto 62",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-62.svg"
+                     ],
+        "sku":  "SKU-00062",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  3414,
+        "precioMinorista":  3926,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-63",
+        "slug":  "producto-63",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 63",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-63.svg"
+                     ],
+        "sku":  "SKU-00063",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  3461,
+        "precioMinorista":  3980,
+        "precioAnterior":  4499,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-64",
+        "slug":  "producto-64",
+        "nombre":  "PROFERT â€” Producto 64",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-64.svg"
+                     ],
+        "sku":  "SKU-00064",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  3508,
+        "precioMinorista":  4034,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-65",
+        "slug":  "producto-65",
+        "nombre":  "BAGLEY â€” Producto 65",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-65.svg"
+                     ],
+        "sku":  "SKU-00065",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  3555,
+        "precioMinorista":  4088,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-66",
+        "slug":  "producto-66",
+        "nombre":  "LUCCHETTI â€” Producto 66",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-66.svg"
+                     ],
+        "sku":  "SKU-00066",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  3602,
+        "precioMinorista":  4142,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-67",
+        "slug":  "producto-67",
+        "nombre":  "CANALE â€” Producto 67",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-67.svg"
+                     ],
+        "sku":  "SKU-00067",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  3649,
+        "precioMinorista":  4196,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-68",
+        "slug":  "producto-68",
+        "nombre":  "TARAGÃœI â€” Producto 68",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-68.svg"
+                     ],
+        "sku":  "SKU-00068",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  3696,
+        "precioMinorista":  4250,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-69",
+        "slug":  "producto-69",
+        "nombre":  "PLAYADITO â€” Producto 69",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-69.svg"
+                     ],
+        "sku":  "SKU-00069",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  3743,
+        "precioMinorista":  4304,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-70",
+        "slug":  "producto-70",
+        "nombre":  "MAGISTRAL â€” Producto 70",
+        "marca":  "Magistral",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-70.svg"
+                     ],
+        "sku":  "SKU-00070",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  3790,
+        "precioMinorista":  4358,
+        "precioAnterior":  4927,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-71",
+        "slug":  "producto-71",
+        "nombre":  "AYUDÃN â€” Producto 71",
+        "marca":  "AyudÃ­n",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-71.svg"
+                     ],
+        "sku":  "SKU-00071",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  3837,
+        "precioMinorista":  4412,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-72",
+        "slug":  "producto-72",
+        "nombre":  "FULGENCIO â€” Producto 72",
+        "marca":  "Fulgencio",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-72.svg"
+                     ],
+        "sku":  "SKU-00072",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  3884,
+        "precioMinorista":  4466,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-73",
+        "slug":  "producto-73",
+        "nombre":  "BLEM â€” Producto 73",
+        "marca":  "Blem",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-73.svg"
+                     ],
+        "sku":  "SKU-00073",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  3931,
+        "precioMinorista":  4520,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-74",
+        "slug":  "producto-74",
+        "nombre":  "DOVE â€” Producto 74",
+        "marca":  "Dove",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "jugos",
+        "imagenes":  [
+                         "/images/productos/producto-74.svg"
+                     ],
+        "sku":  "SKU-00074",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  3978,
+        "precioMinorista":  4574,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-75",
+        "slug":  "producto-75",
+        "nombre":  "HEAD \u0026 SHOULDERS â€” Producto 75",
+        "marca":  "Head \u0026 Shoulders",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "gaseosas",
+        "imagenes":  [
+                         "/images/productos/producto-75.svg"
+                     ],
+        "sku":  "SKU-00075",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  4025,
+        "precioMinorista":  4628,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-76",
+        "slug":  "producto-76",
+        "nombre":  "PANTENE â€” Producto 76",
+        "marca":  "Pantene",
+        "descripcion":  "Producto de calidad mayorista para bebidas",
+        "categoriaId":  "bebidas",
+        "subcategoriaId":  "aguas",
+        "imagenes":  [
+                         "/images/productos/producto-76.svg"
+                     ],
+        "sku":  "SKU-00076",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  4072,
+        "precioMinorista":  4682,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-77",
+        "slug":  "producto-77",
+        "nombre":  "SEDAL â€” Producto 77",
+        "marca":  "Sedal",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "quesos",
+        "imagenes":  [
+                         "/images/productos/producto-77.svg"
+                     ],
+        "sku":  "SKU-00077",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  4119,
+        "precioMinorista":  4736,
+        "precioAnterior":  5354,
+        "enOferta":  true,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-78",
+        "slug":  "producto-78",
+        "nombre":  "MOLINOS ALA â€” Producto 78",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "leches",
+        "imagenes":  [
+                         "/images/productos/producto-78.svg"
+                     ],
+        "sku":  "SKU-00078",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  4166,
+        "precioMinorista":  4790,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-79",
+        "slug":  "producto-79",
+        "nombre":  "MAROLIO â€” Producto 79",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "yogures",
+        "imagenes":  [
+                         "/images/productos/producto-79.svg"
+                     ],
+        "sku":  "SKU-00079",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  4213,
+        "precioMinorista":  4844,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-80",
+        "slug":  "producto-80",
+        "nombre":  "LA SERENÃSIMA â€” Producto 80",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "quesos",
+        "imagenes":  [
+                         "/images/productos/producto-80.svg"
+                     ],
+        "sku":  "SKU-00080",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  4260,
+        "precioMinorista":  4899,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-81",
+        "slug":  "producto-81",
+        "nombre":  "ARCOR â€” Producto 81",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "leches",
+        "imagenes":  [
+                         "/images/productos/producto-81.svg"
+                     ],
+        "sku":  "SKU-00081",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  4307,
+        "precioMinorista":  4953,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-82",
+        "slug":  "producto-82",
+        "nombre":  "QUILMES â€” Producto 82",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "yogures",
+        "imagenes":  [
+                         "/images/productos/producto-82.svg"
+                     ],
+        "sku":  "SKU-00082",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  4354,
+        "precioMinorista":  5007,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-83",
+        "slug":  "producto-83",
+        "nombre":  "COCA COLA â€” Producto 83",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "quesos",
+        "imagenes":  [
+                         "/images/productos/producto-83.svg"
+                     ],
+        "sku":  "SKU-00083",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  4401,
+        "precioMinorista":  5061,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-84",
+        "slug":  "producto-84",
+        "nombre":  "PEPSI â€” Producto 84",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "leches",
+        "imagenes":  [
+                         "/images/productos/producto-84.svg"
+                     ],
+        "sku":  "SKU-00084",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  4448,
+        "precioMinorista":  5115,
+        "precioAnterior":  5782,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-85",
+        "slug":  "producto-85",
+        "nombre":  "FANTA â€” Producto 85",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "yogures",
+        "imagenes":  [
+                         "/images/productos/producto-85.svg"
+                     ],
+        "sku":  "SKU-00085",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  4495,
+        "precioMinorista":  5169,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-86",
+        "slug":  "producto-86",
+        "nombre":  "SPRITE â€” Producto 86",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "quesos",
+        "imagenes":  [
+                         "/images/productos/producto-86.svg"
+                     ],
+        "sku":  "SKU-00086",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  4542,
+        "precioMinorista":  5223,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-87",
+        "slug":  "producto-87",
+        "nombre":  "NARANJA PULP â€” Producto 87",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "leches",
+        "imagenes":  [
+                         "/images/productos/producto-87.svg"
+                     ],
+        "sku":  "SKU-00087",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  4589,
+        "precioMinorista":  5277,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-88",
+        "slug":  "producto-88",
+        "nombre":  "NATURA â€” Producto 88",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "yogures",
+        "imagenes":  [
+                         "/images/productos/producto-88.svg"
+                     ],
+        "sku":  "SKU-00088",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  4636,
+        "precioMinorista":  5331,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-89",
+        "slug":  "producto-89",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 89",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "quesos",
+        "imagenes":  [
+                         "/images/productos/producto-89.svg"
+                     ],
+        "sku":  "SKU-00089",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  4683,
+        "precioMinorista":  5385,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-90",
+        "slug":  "producto-90",
+        "nombre":  "PROFERT â€” Producto 90",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "leches",
+        "imagenes":  [
+                         "/images/productos/producto-90.svg"
+                     ],
+        "sku":  "SKU-00090",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  4730,
+        "precioMinorista":  5439,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-91",
+        "slug":  "producto-91",
+        "nombre":  "BAGLEY â€” Producto 91",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "yogures",
+        "imagenes":  [
+                         "/images/productos/producto-91.svg"
+                     ],
+        "sku":  "SKU-00091",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  4777,
+        "precioMinorista":  5493,
+        "precioAnterior":  6210,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-92",
+        "slug":  "producto-92",
+        "nombre":  "LUCCHETTI â€” Producto 92",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "quesos",
+        "imagenes":  [
+                         "/images/productos/producto-92.svg"
+                     ],
+        "sku":  "SKU-00092",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  4824,
+        "precioMinorista":  5547,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-93",
+        "slug":  "producto-93",
+        "nombre":  "CANALE â€” Producto 93",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "leches",
+        "imagenes":  [
+                         "/images/productos/producto-93.svg"
+                     ],
+        "sku":  "SKU-00093",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  4871,
+        "precioMinorista":  5601,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-94",
+        "slug":  "producto-94",
+        "nombre":  "TARAGÃœI â€” Producto 94",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para lÃ¡cteos",
+        "categoriaId":  "lacteos",
+        "subcategoriaId":  "yogures",
+        "imagenes":  [
+                         "/images/productos/producto-94.svg"
+                     ],
+        "sku":  "SKU-00094",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  4918,
+        "precioMinorista":  5655,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-95",
+        "slug":  "producto-95",
+        "nombre":  "PLAYADITO â€” Producto 95",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "hamburguesas",
+        "imagenes":  [
+                         "/images/productos/producto-95.svg"
+                     ],
+        "sku":  "SKU-00095",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  4965,
+        "precioMinorista":  5709,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-96",
+        "slug":  "producto-96",
+        "nombre":  "MAGISTRAL â€” Producto 96",
+        "marca":  "Magistral",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "papas",
+        "imagenes":  [
+                         "/images/productos/producto-96.svg"
+                     ],
+        "sku":  "SKU-00096",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  5012,
+        "precioMinorista":  5763,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-97",
+        "slug":  "producto-97",
+        "nombre":  "AYUDÃN â€” Producto 97",
+        "marca":  "AyudÃ­n",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "hamburguesas",
+        "imagenes":  [
+                         "/images/productos/producto-97.svg"
+                     ],
+        "sku":  "SKU-00097",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  5059,
+        "precioMinorista":  5817,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-98",
+        "slug":  "producto-98",
+        "nombre":  "FULGENCIO â€” Producto 98",
+        "marca":  "Fulgencio",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "papas",
+        "imagenes":  [
+                         "/images/productos/producto-98.svg"
+                     ],
+        "sku":  "SKU-00098",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  5106,
+        "precioMinorista":  5871,
+        "precioAnterior":  6637,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-99",
+        "slug":  "producto-99",
+        "nombre":  "BLEM â€” Producto 99",
+        "marca":  "Blem",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "hamburguesas",
+        "imagenes":  [
+                         "/images/productos/producto-99.svg"
+                     ],
+        "sku":  "SKU-00099",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  5153,
+        "precioMinorista":  5925,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-100",
+        "slug":  "producto-100",
+        "nombre":  "DOVE â€” Producto 100",
+        "marca":  "Dove",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "papas",
+        "imagenes":  [
+                         "/images/productos/producto-100.svg"
+                     ],
+        "sku":  "SKU-00100",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  5200,
+        "precioMinorista":  5979,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-101",
+        "slug":  "producto-101",
+        "nombre":  "HEAD \u0026 SHOULDERS â€” Producto 101",
+        "marca":  "Head \u0026 Shoulders",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "hamburguesas",
+        "imagenes":  [
+                         "/images/productos/producto-101.svg"
+                     ],
+        "sku":  "SKU-00101",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  5247,
+        "precioMinorista":  6034,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-102",
+        "slug":  "producto-102",
+        "nombre":  "PANTENE â€” Producto 102",
+        "marca":  "Pantene",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "papas",
+        "imagenes":  [
+                         "/images/productos/producto-102.svg"
+                     ],
+        "sku":  "SKU-00102",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  5294,
+        "precioMinorista":  6088,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-103",
+        "slug":  "producto-103",
+        "nombre":  "SEDAL â€” Producto 103",
+        "marca":  "Sedal",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "hamburguesas",
+        "imagenes":  [
+                         "/images/productos/producto-103.svg"
+                     ],
+        "sku":  "SKU-00103",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  5341,
+        "precioMinorista":  6142,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-104",
+        "slug":  "producto-104",
+        "nombre":  "MOLINOS ALA â€” Producto 104",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "papas",
+        "imagenes":  [
+                         "/images/productos/producto-104.svg"
+                     ],
+        "sku":  "SKU-00104",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  5388,
+        "precioMinorista":  6196,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-105",
+        "slug":  "producto-105",
+        "nombre":  "MAROLIO â€” Producto 105",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para congelados",
+        "categoriaId":  "congelados",
+        "subcategoriaId":  "hamburguesas",
+        "imagenes":  [
+                         "/images/productos/producto-105.svg"
+                     ],
+        "sku":  "SKU-00105",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  5435,
+        "precioMinorista":  6250,
+        "precioAnterior":  7065,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-106",
+        "slug":  "producto-106",
+        "nombre":  "LA SERENÃSIMA â€” Producto 106",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-106.svg"
+                     ],
+        "sku":  "SKU-00106",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  5482,
+        "precioMinorista":  6304,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-107",
+        "slug":  "producto-107",
+        "nombre":  "ARCOR â€” Producto 107",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-107.svg"
+                     ],
+        "sku":  "SKU-00107",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  529,
+        "precioMinorista":  608,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-108",
+        "slug":  "producto-108",
+        "nombre":  "QUILMES â€” Producto 108",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-108.svg"
+                     ],
+        "sku":  "SKU-00108",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  576,
+        "precioMinorista":  662,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-109",
+        "slug":  "producto-109",
+        "nombre":  "COCA COLA â€” Producto 109",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-109.svg"
+                     ],
+        "sku":  "SKU-00109",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  623,
+        "precioMinorista":  716,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-110",
+        "slug":  "producto-110",
+        "nombre":  "PEPSI â€” Producto 110",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-110.svg"
+                     ],
+        "sku":  "SKU-00110",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  670,
+        "precioMinorista":  770,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO",
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-111",
+        "slug":  "producto-111",
+        "nombre":  "FANTA â€” Producto 111",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-111.svg"
+                     ],
+        "sku":  "SKU-00111",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  717,
+        "precioMinorista":  824,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-112",
+        "slug":  "producto-112",
+        "nombre":  "SPRITE â€” Producto 112",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-112.svg"
+                     ],
+        "sku":  "SKU-00112",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  764,
+        "precioMinorista":  878,
+        "precioAnterior":  993,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-113",
+        "slug":  "producto-113",
+        "nombre":  "NARANJA PULP â€” Producto 113",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-113.svg"
+                     ],
+        "sku":  "SKU-00113",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  811,
+        "precioMinorista":  932,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-114",
+        "slug":  "producto-114",
+        "nombre":  "NATURA â€” Producto 114",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-114.svg"
+                     ],
+        "sku":  "SKU-00114",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  858,
+        "precioMinorista":  986,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-115",
+        "slug":  "producto-115",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 115",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-115.svg"
+                     ],
+        "sku":  "SKU-00115",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  905,
+        "precioMinorista":  1040,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-116",
+        "slug":  "producto-116",
+        "nombre":  "PROFERT â€” Producto 116",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-116.svg"
+                     ],
+        "sku":  "SKU-00116",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  952,
+        "precioMinorista":  1094,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-117",
+        "slug":  "producto-117",
+        "nombre":  "BAGLEY â€” Producto 117",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-117.svg"
+                     ],
+        "sku":  "SKU-00117",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  999,
+        "precioMinorista":  1148,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-118",
+        "slug":  "producto-118",
+        "nombre":  "LUCCHETTI â€” Producto 118",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-118.svg"
+                     ],
+        "sku":  "SKU-00118",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  1046,
+        "precioMinorista":  1202,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-119",
+        "slug":  "producto-119",
+        "nombre":  "CANALE â€” Producto 119",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-119.svg"
+                     ],
+        "sku":  "SKU-00119",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  1093,
+        "precioMinorista":  1256,
+        "precioAnterior":  1420,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-120",
+        "slug":  "producto-120",
+        "nombre":  "TARAGÃœI â€” Producto 120",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-120.svg"
+                     ],
+        "sku":  "SKU-00120",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  1140,
+        "precioMinorista":  1311,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-121",
+        "slug":  "producto-121",
+        "nombre":  "PLAYADITO â€” Producto 121",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-121.svg"
+                     ],
+        "sku":  "SKU-00121",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  1187,
+        "precioMinorista":  1365,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-122",
+        "slug":  "producto-122",
+        "nombre":  "MAGISTRAL â€” Producto 122",
+        "marca":  "Magistral",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-122.svg"
+                     ],
+        "sku":  "SKU-00122",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  1234,
+        "precioMinorista":  1419,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-123",
+        "slug":  "producto-123",
+        "nombre":  "AYUDÃN â€” Producto 123",
+        "marca":  "AyudÃ­n",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-123.svg"
+                     ],
+        "sku":  "SKU-00123",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  1281,
+        "precioMinorista":  1473,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-124",
+        "slug":  "producto-124",
+        "nombre":  "FULGENCIO â€” Producto 124",
+        "marca":  "Fulgencio",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-124.svg"
+                     ],
+        "sku":  "SKU-00124",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  1328,
+        "precioMinorista":  1527,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-125",
+        "slug":  "producto-125",
+        "nombre":  "BLEM â€” Producto 125",
+        "marca":  "Blem",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-125.svg"
+                     ],
+        "sku":  "SKU-00125",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  1375,
+        "precioMinorista":  1581,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-126",
+        "slug":  "producto-126",
+        "nombre":  "DOVE â€” Producto 126",
+        "marca":  "Dove",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-126.svg"
+                     ],
+        "sku":  "SKU-00126",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  1422,
+        "precioMinorista":  1635,
+        "precioAnterior":  1848,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-127",
+        "slug":  "producto-127",
+        "nombre":  "HEAD \u0026 SHOULDERS â€” Producto 127",
+        "marca":  "Head \u0026 Shoulders",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "detergentes",
+        "imagenes":  [
+                         "/images/productos/producto-127.svg"
+                     ],
+        "sku":  "SKU-00127",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  1469,
+        "precioMinorista":  1689,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-128",
+        "slug":  "producto-128",
+        "nombre":  "PANTENE â€” Producto 128",
+        "marca":  "Pantene",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "papel",
+        "imagenes":  [
+                         "/images/productos/producto-128.svg"
+                     ],
+        "sku":  "SKU-00128",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  1516,
+        "precioMinorista":  1743,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-129",
+        "slug":  "producto-129",
+        "nombre":  "SEDAL â€” Producto 129",
+        "marca":  "Sedal",
+        "descripcion":  "Producto de calidad mayorista para limpieza",
+        "categoriaId":  "limpieza",
+        "subcategoriaId":  "lavandina",
+        "imagenes":  [
+                         "/images/productos/producto-129.svg"
+                     ],
+        "sku":  "SKU-00129",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  1563,
+        "precioMinorista":  1797,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-130",
+        "slug":  "producto-130",
+        "nombre":  "MOLINOS ALA â€” Producto 130",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-130.svg"
+                     ],
+        "sku":  "SKU-00130",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  1610,
+        "precioMinorista":  1851,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-131",
+        "slug":  "producto-131",
+        "nombre":  "MAROLIO â€” Producto 131",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "panialed",
+        "imagenes":  [
+                         "/images/productos/producto-131.svg"
+                     ],
+        "sku":  "SKU-00131",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  1657,
+        "precioMinorista":  1905,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-132",
+        "slug":  "producto-132",
+        "nombre":  "LA SERENÃSIMA â€” Producto 132",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "shampoo",
+        "imagenes":  [
+                         "/images/productos/producto-132.svg"
+                     ],
+        "sku":  "SKU-00132",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  1704,
+        "precioMinorista":  1959,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-133",
+        "slug":  "producto-133",
+        "nombre":  "ARCOR â€” Producto 133",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-133.svg"
+                     ],
+        "sku":  "SKU-00133",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  1751,
+        "precioMinorista":  2013,
+        "precioAnterior":  2276,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-134",
+        "slug":  "producto-134",
+        "nombre":  "QUILMES â€” Producto 134",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "panialed",
+        "imagenes":  [
+                         "/images/productos/producto-134.svg"
+                     ],
+        "sku":  "SKU-00134",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  1798,
+        "precioMinorista":  2067,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-135",
+        "slug":  "producto-135",
+        "nombre":  "COCA COLA â€” Producto 135",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "shampoo",
+        "imagenes":  [
+                         "/images/productos/producto-135.svg"
+                     ],
+        "sku":  "SKU-00135",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  1845,
+        "precioMinorista":  2121,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-136",
+        "slug":  "producto-136",
+        "nombre":  "PEPSI â€” Producto 136",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-136.svg"
+                     ],
+        "sku":  "SKU-00136",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  1892,
+        "precioMinorista":  2175,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-137",
+        "slug":  "producto-137",
+        "nombre":  "FANTA â€” Producto 137",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "panialed",
+        "imagenes":  [
+                         "/images/productos/producto-137.svg"
+                     ],
+        "sku":  "SKU-00137",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  1939,
+        "precioMinorista":  2229,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-138",
+        "slug":  "producto-138",
+        "nombre":  "SPRITE â€” Producto 138",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "shampoo",
+        "imagenes":  [
+                         "/images/productos/producto-138.svg"
+                     ],
+        "sku":  "SKU-00138",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  1986,
+        "precioMinorista":  2283,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-139",
+        "slug":  "producto-139",
+        "nombre":  "NARANJA PULP â€” Producto 139",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-139.svg"
+                     ],
+        "sku":  "SKU-00139",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  2033,
+        "precioMinorista":  2337,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-140",
+        "slug":  "producto-140",
+        "nombre":  "NATURA â€” Producto 140",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "panialed",
+        "imagenes":  [
+                         "/images/productos/producto-140.svg"
+                     ],
+        "sku":  "SKU-00140",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  2080,
+        "precioMinorista":  2392,
+        "precioAnterior":  2704,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-141",
+        "slug":  "producto-141",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 141",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "shampoo",
+        "imagenes":  [
+                         "/images/productos/producto-141.svg"
+                     ],
+        "sku":  "SKU-00141",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  2127,
+        "precioMinorista":  2446,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-142",
+        "slug":  "producto-142",
+        "nombre":  "PROFERT â€” Producto 142",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-142.svg"
+                     ],
+        "sku":  "SKU-00142",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  2174,
+        "precioMinorista":  2500,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-143",
+        "slug":  "producto-143",
+        "nombre":  "BAGLEY â€” Producto 143",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "panialed",
+        "imagenes":  [
+                         "/images/productos/producto-143.svg"
+                     ],
+        "sku":  "SKU-00143",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  2221,
+        "precioMinorista":  2554,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-144",
+        "slug":  "producto-144",
+        "nombre":  "LUCCHETTI â€” Producto 144",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "shampoo",
+        "imagenes":  [
+                         "/images/productos/producto-144.svg"
+                     ],
+        "sku":  "SKU-00144",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  2268,
+        "precioMinorista":  2608,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-145",
+        "slug":  "producto-145",
+        "nombre":  "CANALE â€” Producto 145",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-145.svg"
+                     ],
+        "sku":  "SKU-00145",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  2315,
+        "precioMinorista":  2662,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-146",
+        "slug":  "producto-146",
+        "nombre":  "TARAGÃœI â€” Producto 146",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "panialed",
+        "imagenes":  [
+                         "/images/productos/producto-146.svg"
+                     ],
+        "sku":  "SKU-00146",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  2362,
+        "precioMinorista":  2716,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-147",
+        "slug":  "producto-147",
+        "nombre":  "PLAYADITO â€” Producto 147",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "shampoo",
+        "imagenes":  [
+                         "/images/productos/producto-147.svg"
+                     ],
+        "sku":  "SKU-00147",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  2409,
+        "precioMinorista":  2770,
+        "precioAnterior":  3131,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-148",
+        "slug":  "producto-148",
+        "nombre":  "MAGISTRAL â€” Producto 148",
+        "marca":  "Magistral",
+        "descripcion":  "Producto de calidad mayorista para perfumerÃ­a",
+        "categoriaId":  "perfumeria",
+        "subcategoriaId":  "jabones",
+        "imagenes":  [
+                         "/images/productos/producto-148.svg"
+                     ],
+        "sku":  "SKU-00148",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  2456,
+        "precioMinorista":  2824,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-149",
+        "slug":  "producto-149",
+        "nombre":  "AYUDÃN â€” Producto 149",
+        "marca":  "AyudÃ­n",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "caramelos",
+        "imagenes":  [
+                         "/images/productos/producto-149.svg"
+                     ],
+        "sku":  "SKU-00149",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  2503,
+        "precioMinorista":  2878,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-150",
+        "slug":  "producto-150",
+        "nombre":  "FULGENCIO â€” Producto 150",
+        "marca":  "Fulgencio",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "chocolates",
+        "imagenes":  [
+                         "/images/productos/producto-150.svg"
+                     ],
+        "sku":  "SKU-00150",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  2550,
+        "precioMinorista":  2932,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-151",
+        "slug":  "producto-151",
+        "nombre":  "BLEM â€” Producto 151",
+        "marca":  "Blem",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "galletitas",
+        "imagenes":  [
+                         "/images/productos/producto-151.svg"
+                     ],
+        "sku":  "SKU-00151",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  2597,
+        "precioMinorista":  2986,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-152",
+        "slug":  "producto-152",
+        "nombre":  "DOVE â€” Producto 152",
+        "marca":  "Dove",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "caramelos",
+        "imagenes":  [
+                         "/images/productos/producto-152.svg"
+                     ],
+        "sku":  "SKU-00152",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  2644,
+        "precioMinorista":  3040,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-153",
+        "slug":  "producto-153",
+        "nombre":  "HEAD \u0026 SHOULDERS â€” Producto 153",
+        "marca":  "Head \u0026 Shoulders",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "chocolates",
+        "imagenes":  [
+                         "/images/productos/producto-153.svg"
+                     ],
+        "sku":  "SKU-00153",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  2691,
+        "precioMinorista":  3094,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-154",
+        "slug":  "producto-154",
+        "nombre":  "PANTENE â€” Producto 154",
+        "marca":  "Pantene",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "galletitas",
+        "imagenes":  [
+                         "/images/productos/producto-154.svg"
+                     ],
+        "sku":  "SKU-00154",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  2738,
+        "precioMinorista":  3148,
+        "precioAnterior":  3559,
+        "enOferta":  true,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "MÃS VENDIDO",
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-155",
+        "slug":  "producto-155",
+        "nombre":  "SEDAL â€” Producto 155",
+        "marca":  "Sedal",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "caramelos",
+        "imagenes":  [
+                         "/images/productos/producto-155.svg"
+                     ],
+        "sku":  "SKU-00155",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  2785,
+        "precioMinorista":  3202,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-156",
+        "slug":  "producto-156",
+        "nombre":  "MOLINOS ALA â€” Producto 156",
+        "marca":  "Molinos Ala",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "chocolates",
+        "imagenes":  [
+                         "/images/productos/producto-156.svg"
+                     ],
+        "sku":  "SKU-00156",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  2832,
+        "precioMinorista":  3256,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-157",
+        "slug":  "producto-157",
+        "nombre":  "MAROLIO â€” Producto 157",
+        "marca":  "Marolio",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "galletitas",
+        "imagenes":  [
+                         "/images/productos/producto-157.svg"
+                     ],
+        "sku":  "SKU-00157",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  2879,
+        "precioMinorista":  3310,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-158",
+        "slug":  "producto-158",
+        "nombre":  "LA SERENÃSIMA â€” Producto 158",
+        "marca":  "La SerenÃ­sima",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "caramelos",
+        "imagenes":  [
+                         "/images/productos/producto-158.svg"
+                     ],
+        "sku":  "SKU-00158",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  2926,
+        "precioMinorista":  3364,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-159",
+        "slug":  "producto-159",
+        "nombre":  "ARCOR â€” Producto 159",
+        "marca":  "Arcor",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "chocolates",
+        "imagenes":  [
+                         "/images/productos/producto-159.svg"
+                     ],
+        "sku":  "SKU-00159",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  19,
+        "precioMayorista":  2973,
+        "precioMinorista":  3418,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-160",
+        "slug":  "producto-160",
+        "nombre":  "QUILMES â€” Producto 160",
+        "marca":  "Quilmes",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "galletitas",
+        "imagenes":  [
+                         "/images/productos/producto-160.svg"
+                     ],
+        "sku":  "SKU-00160",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  20,
+        "precioMayorista":  3020,
+        "precioMinorista":  3472,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "sin-stock",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-161",
+        "slug":  "producto-161",
+        "nombre":  "COCA COLA â€” Producto 161",
+        "marca":  "Coca Cola",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "caramelos",
+        "imagenes":  [
+                         "/images/productos/producto-161.svg"
+                     ],
+        "sku":  "SKU-00161",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  21,
+        "precioMayorista":  3067,
+        "precioMinorista":  3527,
+        "precioAnterior":  3987,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-162",
+        "slug":  "producto-162",
+        "nombre":  "PEPSI â€” Producto 162",
+        "marca":  "Pepsi",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "chocolates",
+        "imagenes":  [
+                         "/images/productos/producto-162.svg"
+                     ],
+        "sku":  "SKU-00162",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  22,
+        "precioMayorista":  3114,
+        "precioMinorista":  3581,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-163",
+        "slug":  "producto-163",
+        "nombre":  "FANTA â€” Producto 163",
+        "marca":  "Fanta",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "galletitas",
+        "imagenes":  [
+                         "/images/productos/producto-163.svg"
+                     ],
+        "sku":  "SKU-00163",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  23,
+        "precioMayorista":  3161,
+        "precioMinorista":  3635,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-164",
+        "slug":  "producto-164",
+        "nombre":  "SPRITE â€” Producto 164",
+        "marca":  "Sprite",
+        "descripcion":  "Producto de calidad mayorista para golosinas",
+        "categoriaId":  "golosinas",
+        "subcategoriaId":  "caramelos",
+        "imagenes":  [
+                         "/images/productos/producto-164.svg"
+                     ],
+        "sku":  "SKU-00164",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  24,
+        "precioMayorista":  3208,
+        "precioMinorista":  3689,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-165",
+        "slug":  "producto-165",
+        "nombre":  "NARANJA PULP â€” Producto 165",
+        "marca":  "Naranja Pulp",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "bandejas",
+        "imagenes":  [
+                         "/images/productos/producto-165.svg"
+                     ],
+        "sku":  "SKU-00165",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  10,
+        "precioMayorista":  3255,
+        "precioMinorista":  3743,
+        "enOferta":  false,
+        "destacado":  true,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "NUEVO",
+                          "MÃS VENDIDO"
+                      ]
+    },
+    {
+        "id":  "prod-166",
+        "slug":  "producto-166",
+        "nombre":  "NATURA â€” Producto 166",
+        "marca":  "Natura",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "vasos",
+        "imagenes":  [
+                         "/images/productos/producto-166.svg"
+                     ],
+        "sku":  "SKU-00166",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  11,
+        "precioMayorista":  3302,
+        "precioMinorista":  3797,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-167",
+        "slug":  "producto-167",
+        "nombre":  "Ã“LEOS DEL SUR â€” Producto 167",
+        "marca":  "Ã“leos del Sur",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "bandejas",
+        "imagenes":  [
+                         "/images/productos/producto-167.svg"
+                     ],
+        "sku":  "SKU-00167",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  12,
+        "precioMayorista":  3349,
+        "precioMinorista":  3851,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-168",
+        "slug":  "producto-168",
+        "nombre":  "PROFERT â€” Producto 168",
+        "marca":  "Profert",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "vasos",
+        "imagenes":  [
+                         "/images/productos/producto-168.svg"
+                     ],
+        "sku":  "SKU-00168",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  13,
+        "precioMayorista":  3396,
+        "precioMinorista":  3905,
+        "precioAnterior":  4414,
+        "enOferta":  true,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+                          "PRECIO CUIDADO"
+                      ]
+    },
+    {
+        "id":  "prod-169",
+        "slug":  "producto-169",
+        "nombre":  "BAGLEY â€” Producto 169",
+        "marca":  "Bagley",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "bandejas",
+        "imagenes":  [
+                         "/images/productos/producto-169.svg"
+                     ],
+        "sku":  "SKU-00169",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  14,
+        "precioMayorista":  3443,
+        "precioMinorista":  3959,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-170",
+        "slug":  "producto-170",
+        "nombre":  "LUCCHETTI â€” Producto 170",
+        "marca":  "Lucchetti",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "vasos",
+        "imagenes":  [
+                         "/images/productos/producto-170.svg"
+                     ],
+        "sku":  "SKU-00170",
+        "unidadVenta":  "caja",
+        "unidadesPorBulto":  15,
+        "precioMayorista":  3490,
+        "precioMinorista":  4013,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "ultimas-unidades",
+        "etiquetas":  [
+                          "NUEVO"
+                      ]
+    },
+    {
+        "id":  "prod-171",
+        "slug":  "producto-171",
+        "nombre":  "CANALE â€” Producto 171",
+        "marca":  "Canale",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "bandejas",
+        "imagenes":  [
+                         "/images/productos/producto-171.svg"
+                     ],
+        "sku":  "SKU-00171",
+        "unidadVenta":  "pack",
+        "unidadesPorBulto":  16,
+        "precioMayorista":  3537,
+        "precioMinorista":  4067,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-172",
+        "slug":  "producto-172",
+        "nombre":  "TARAGÃœI â€” Producto 172",
+        "marca":  "TaragÃ¼i",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "vasos",
+        "imagenes":  [
+                         "/images/productos/producto-172.svg"
+                     ],
+        "sku":  "SKU-00172",
+        "unidadVenta":  "unidad",
+        "unidadesPorBulto":  17,
+        "precioMayorista":  3584,
+        "precioMinorista":  4121,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    },
+    {
+        "id":  "prod-173",
+        "slug":  "producto-173",
+        "nombre":  "PLAYADITO â€” Producto 173",
+        "marca":  "Playadito",
+        "descripcion":  "Producto de calidad mayorista para descartables",
+        "categoriaId":  "descartables",
+        "subcategoriaId":  "bandejas",
+        "imagenes":  [
+                         "/images/productos/producto-173.svg"
+                     ],
+        "sku":  "SKU-00173",
+        "unidadVenta":  "bulto",
+        "unidadesPorBulto":  18,
+        "precioMayorista":  3631,
+        "precioMinorista":  4175,
+        "enOferta":  false,
+        "destacado":  false,
+        "stock":  "disponible",
+        "etiquetas":  [
+
+                      ]
+    }
+]

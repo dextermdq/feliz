@@ -1,0 +1,62 @@
+- generic:
+  - generic [active]:
+    - generic [ref=f9e3]:
+      - generic [ref=f9e4]:
+        - navigation [ref=f9e6]:
+          - button [disabled] [ref=f9e7]:
+            - img "previous" [ref=f9e8]
+          - generic [ref=f9e10]:
+            - generic [ref=f9e11]: 1/
+            - text: "1"
+          - button [disabled] [ref=f9e12]:
+            - img "next" [ref=f9e13]
+        - link "Next.js 15.5.25 (outdated) Webpack" [ref=f9e16] [cursor=pointer]:
+          - /url: https://nextjs.org/docs/messages/version-staleness
+          - generic "An outdated version detected (latest is 16.3.5), upgrade is highly recommended!" [ref=f9e19]: Next.js 15.5.25 (outdated)
+          - generic [ref=f9e20]: Webpack
+      - dialog "Build Error" [ref=f9e22]:
+        - generic [ref=f9e25]:
+          - generic [ref=f9e26]:
+            - generic [ref=f9e27]:
+              - generic [ref=f9e28]: Build Error
+              - generic [ref=f9e30]:
+                - button "Copy Error Info" [ref=f9e31] [cursor=pointer]
+                - button "No related documentation found" [disabled] [ref=f9e34]
+                - link "Learn more about enabling Node.js inspector for server code with Chrome DevTools" [ref=f9e37] [cursor=pointer]:
+                  - /url: https://nextjs.org/docs/app/building-your-application/configuring/debugging#server-side-code
+            - paragraph [ref=f9e47]: "Syntax error: tailwindcss: C:\\Users\\Lucas Escritorio\\Documents\\ANTIGRAVITY\\FELIZ\\src\\styles\\globals.css Cannot apply unknown utility class `px-margin`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive"
+          - generic [ref=f9e49]:
+            - generic [ref=f9e51]:
+              - generic [ref=f9e55]: ./src/styles/globals.css (1:1)
+              - button "Open in editor" [ref=f9e56] [cursor=pointer]
+            - generic [ref=f9e61]:
+              - generic [ref=f9e62]:
+                - text: "Syntax error: tailwindcss: C:\\Users\\Lucas Escritorio\\Documents\\ANTIGRAVITY\\FELIZ\\src\\styles\\globals.css Cannot apply unknown utility class `px-margin`. Are you using CSS modules or similar and missing `@reference`?"
+                - link "https://tailwindcss.com/docs/functions-and-directives#reference-directive" [ref=f9e63] [cursor=pointer]:
+                  - /url: https://tailwindcss.com/docs/functions-and-directives#reference-directive
+              - text: ">"
+              - generic [ref=f9e64]: 1 |
+              - text: "@tailwind"
+              - generic [ref=f9e65]: base
+              - text: ;
+              - generic [ref=f9e66]: "|"
+              - text: ^
+              - generic [ref=f9e67]: 2 |
+              - text: "@tailwind"
+              - generic [ref=f9e68]: components
+              - text: ;
+              - generic [ref=f9e69]: 3 |
+              - text: "@tailwind"
+              - generic [ref=f9e70]: utilities
+              - text: ;
+        - generic [ref=f9e71]:
+          - generic [ref=f9e72]: "1"
+          - generic [ref=f9e73]: "2"
+    - generic [ref=f9e78] [cursor=pointer]:
+      - button "Open Next.js Dev Tools" [ref=f9e79]
+      - button "Open issues overlay" [ref=f9e84]:
+        - generic [ref=f9e85]:
+          - generic [aria-hidden] [ref=f9e86]: "0"
+          - generic [ref=f9e87]: "1"
+        - generic [ref=f9e88]: Issue
+  - alert [ref=f9e89]

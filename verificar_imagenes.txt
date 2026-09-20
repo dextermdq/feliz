@@ -1,0 +1,28 @@
+TABLA DE VERIFICACIÓN DE IMÁGENES - FELIZ DEMO
+
+Basándome en las URLs de Open Food Facts y descripción de productos:
+
+# ALMACÉN
+1. Aceite de Girasol Natura 900ml | https://images.openfoodfacts.org/images/products/779/027/200/1005/front_es.44.400.jpg | Natura aceite - SÍ coincide
+2. Fideos Tirabuzón Lucchetti 500g | https://images.openfoodfacts.org/images/products/779/007/033/6026/front_es.8.400.jpg | Lucchetti fideos - SÍ coincide
+3. Arroz Largo Fino Molinos Ala 1kg | https://images.openfoodfacts.org/images/products/779/112/003/1557/front_es.27.400.jpg | Molinos Ala arroz - SÍ coincide
+
+# BEBIDAS
+4. Coca-Cola 2,25L | https://images.openfoodfacts.org/images/products/779/089/500/0997/front_en.43.400.jpg | Coca-Cola botella - SÍ coincide
+5. Sprite 2,25L | https://images.openfoodfacts.org/images/products/779/089/500/0997/front_en.43.400.jpg | (reutilizada Coca) - REVISAR
+6. Jugo de Naranja con Pulpa | https://images.openfoodfacts.org/images/products/503/886/243/1354/front_es.7.400.jpg | Zumo español - NO coincide (cambiar nombre)
+
+# LÁCTEOS
+7. Leche Entera Larga Vida 1L | https://images.openfoodfacts.org/images/products/779/172/002/9404/front_es.16.400.jpg | Carrefour leche - NO coincide (cambiar nombre a genérico)
+8. Queso Barra La Serenísima 250g | https://images.openfoodfacts.org/images/products/779/172/002/9404/front_es.16.400.jpg | (reutilizada leche) - REVISAR
+9. Yogur Entero 160g | https://images.openfoodfacts.org/images/products/779/133/700/6355/front_en.19.400.jpg | Yogurísimo (Danone) - NO coincide (cambiar nombre)
+
+# CONGELADOS, LIMPIEZA, PERFUMERÍA, GOLOSINAS, DESCARTABLES
+(reutilizando URLs - necesita revisión)
+
+PROBLEMAS IDENTIFICADOS:
+- Sprite: reutiliza URL de Coca (misma imagen)
+- Leche: foto es marca Carrefour, no genérica
+- Yogur: foto es Yogurísimo (Danone), no genérico
+- Queso: reutiliza URL de leche
+- Naranja: zumo español, no producto argentino

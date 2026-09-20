@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    background-color: #F2F2F2;
+    color: #0D0D0D;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-archivo, sans-serif);
+    font-weight: 700;
+  }
+
+  button {
+    transition-property: color;
+    transition-duration: 150ms;
+  }
+}
+
+@layer components {
+  .page-margin {
+    padding-inline: 1.5rem;
+  }
+
+  .max-w-container {
+    @apply max-w-[1280px];
+  }
+
+  .py-section {
+    @apply py-[2.5rem];
+  }
+
+  .gap-section {
+    @apply gap-space-lg;
+  }
+}
