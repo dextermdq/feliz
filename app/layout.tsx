@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Archivo_Narrow, Inter } from "next/font/google";
 import "@/src/styles/globals.css";
+import { FloatingWhatsApp } from "@/src/components/common/FloatingWhatsApp";
 
 const archivo = Archivo_Narrow({
   subsets: ["latin"],
@@ -35,6 +36,7 @@ export default function RootLayout({
         className={`${archivo.variable} ${inter.variable} bg-feliz-gris-100 text-feliz-negro font-inter antialiased`}
       >
         {children}
+        <FloatingWhatsApp />
       </body>
     </html>
   );
