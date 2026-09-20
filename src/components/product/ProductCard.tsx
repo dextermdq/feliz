@@ -106,6 +106,13 @@ export function ProductCard({ product, onAdd }: ProductCardProps) {
           </div>
         )}
       </div>
+
+      {/* Footer con marca - sutil */}
+      <div className="border-t border-feliz-gris-100 px-space-lg py-space-sm">
+        <p className="text-xs text-feliz-gris-500 text-center font-medium">
+          {product.marca}
+        </p>
+      </div>
     </div>
   );
 }
