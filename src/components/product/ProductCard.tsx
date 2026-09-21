@@ -108,7 +108,7 @@ export function ProductCard({ product, onAdd }: ProductCardProps) {
       </div>
 
       {/* Footer con marca */}
-      <div className="border-t border-feliz-gris-100 bg-feliz-gris-100 px-space-lg py-2">
+      <div className="border-t border-feliz-gris-100 bg-feliz-gris-100 px-space-lg py-space-sm">
         <p className="text-xs text-feliz-gris-500 text-center font-semibold">
           {product.marca}
         </p>
